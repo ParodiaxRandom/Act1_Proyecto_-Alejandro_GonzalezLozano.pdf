@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f12f82b1cc729a4f9f34dd822579a43, type: 3}
+  m_Name: SoundCollection
+  m_EditorClassIdentifier: Assembly-CSharp::SoundCollection
+  steps: {fileID: 8300000, guid: 940c70d1910ebc842bfc79561cd89c8d, type: 3}
+  jump: {fileID: 8300000, guid: f3c6aeb15f983194a9973ba1fc33a3b6, type: 3}
+  shootGun: {fileID: 8300000, guid: 8e06ce3f0e7292345b8116bd0d1ddaaf, type: 3}
+  reloadGun: {fileID: 8300000, guid: 707135e9f000f194f973c9783d875ccd, type: 3}
+  shootRifle: {fileID: 8300000, guid: d81c6ea96474d2546930a66bbf4dfbab, type: 3}
+  rechargeRifle: {fileID: 8300000, guid: ab68913a9bcb8ab4ca48a95bfac4dbbf, type: 3}
+  sandCastle: {fileID: 8300000, guid: 8cd84f5b0384c314fa916fe4220457d6, type: 3}
+  diePlayer: {fileID: 8300000, guid: 70287c4efa0c8834597b3353aa4b23df, type: 3}
+  painPlayer: {fileID: 8300000, guid: f67f8cd265bea574492129dbc8926e7b, type: 3}
+  painMonster: {fileID: 8300000, guid: 24a0f9878ca06fc459bb754c22df01a1, type: 3}
+  dieMonster: {fileID: 8300000, guid: 4d12aad8661d3f449a28a89a56d53e43, type: 3}
+  attackMonster: {fileID: 0}
+  monsterPlayerDetected: {fileID: 8300000, guid: 41b36499bdd863140a99e5a8baeec109, type: 3}
+  bomb: {fileID: 8300000, guid: 86a3689eb1950a5409c285da30017d65, type: 3}
+  heal: {fileID: 8300000, guid: 2a49a5f59df68fa4787d2fd884d0ce59, type: 3}
+  vanAppear: {fileID: 8300000, guid: aa19d5be0e4039f42ab71dc472d21f88, type: 3}
+  gunChange: {fileID: 8300000, guid: ca9268f49f4c62947a19c0461c2fbd3c, type: 3}
+  rifleChange: {fileID: 8300000, guid: a3bcc10452c2429429ff9a7f01e6b82c, type: 3}
